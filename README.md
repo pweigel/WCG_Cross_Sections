@@ -1,6 +1,7 @@
 # WCG24 Cross Sections
+Authors: Philip L. R. Weigel, Janet M. Conrad, Alfonso Garcia-Soto
 
-This is the repository for the cross section files from arxiv:2408.XXXXX. The columns of each `.table` file correspond to the columns of the tables in Appendix C.
+This is the repository for the cross section files from [arxiv:2408.05866](https://arxiv.org/abs/2408.05866). The columns of each `.table` file correspond to the columns of the tables in Appendix C.
 * `CT18ANNLO` primary NNLO cross sections from the paper
 * `CT18ANLO` NLO version of the calculations
 * `EPPS21nlo_CT18Anlo_O16` NLO oxygen cross sections (sigma/A)
