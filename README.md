@@ -1,7 +1,19 @@
 # WCG24 Cross Sections
 Authors: Philip L. R. Weigel, Janet M. Conrad, Alfonso Garcia-Soto
 
-This is the repository for the cross section files from [arxiv:2408.05866](https://arxiv.org/abs/2408.05866). The columns of each `.table` file correspond to the columns of the tables in Appendix C.
+__Update 03/10/2025__: I have uploaded the nutau and NC cross sections for some of the existing (n)PDF sets, and have also added additional targets:
+* EPPS21_CT18Anlo_C12
+* EPPS21_CT18Anlo_Al27
+* EPPS21_CT18Anlo_Ca40
+* EPPS21_CT18Anlo_W184
+
+Note that the NC cross sections do not include the CKMT-PCAC-NT treatment.
+
+__Update 02/21/2025__: The paper has been published, see: [Phys. Rev. D 111, 043044](https://doi.org/10.1103/PhysRevD.111.043044)
+
+---
+
+This is the repository for the cross section files from [Phys. Rev. D 111, 043044](https://doi.org/10.1103/PhysRevD.111.043044)/[arxiv:2408.05866](https://arxiv.org/abs/2408.05866). The columns of each `.table` file correspond to the columns of the tables in Appendix C.
 * `CT18ANNLO` primary NNLO cross sections from the paper
 * `CT18ANLO` NLO version of the calculations
 * `EPPS21nlo_CT18Anlo_O16` NLO oxygen cross sections (sigma/A)
